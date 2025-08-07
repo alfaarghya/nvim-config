@@ -9,3 +9,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 mv nvim-config nvim #rename the file
 cp nvim ~/.config/ #copy it to the config dir
 ```
+
+## nvim editor
+
+![nvim-editor](/public/nvim-editor.png)
